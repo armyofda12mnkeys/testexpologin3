@@ -20,7 +20,7 @@ export default function App() {
 	const [requestGoogle, responseGoogle, promptAsyncGoogle] = Google.useAuthRequest({
 		androidClientId: '486686041732-pc6bum5uurn4u8mvlvr5uohi9gj8c6u0.apps.googleusercontent.com',
 		iosClientId: '', //add later
-		webClientId: '',
+		webClientId: '486686041732-ideie2roo1ka25g18kanoba7bvgomv0e.apps.googleusercontent.com',
 	});
 
 	//##########################
